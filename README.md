@@ -3,7 +3,8 @@
 ## Hi everyone <br>
 
 First, let me introduce myself quickly. <br> 
-My name is Antonin, and I'm a 26-year-old beginner web developer living in the South of France, near Avignon. I'm currently in training at Avenir84. <br>
+My name is Antonin, and I'm a 26-year-old beginner web developer living in the South of France, near Avignon. <br>
+I'm currently in training at Avenir84. <br>
 I'm passionate about computer science and web technologies, as well as video games, manga, and a bunch of other things. <br> <br>
 
 First, let's introduce myself quickly <br>
